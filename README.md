@@ -4,5 +4,5 @@ vscode通过Remote Development插件来实现远程开发。
 
 需求分析
 --------
-1.连接方式:可以通过SSH和Container连接，本地也可以连接WSL。
+1.连接方式:可以通过SSH和Container连接，本地也可以连接WSL。\n
 2
