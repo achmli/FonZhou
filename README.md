@@ -1,1 +1,8 @@
-# AdvancedSoftEngineering
+作业4：从需求分析到软件设计
+===========================
+vscode通过Remote Development插件来实现远程开发。
+
+需求分析
+--------
+1.连接方式
+2
